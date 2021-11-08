@@ -305,3 +305,53 @@ Select Yes if the statement is true.Otherwise, select No.
 () Yes
 () No
 
+41. Your company is evaluating whether to block legacy authentication protocols.
+Exchange ActiveSync is a legacy authentication protocol.
+Select Yes if the statement is true. Otherwise, select No.
+Select only one answer.
+() Yes
+(X) No
+
+42. Your company is evaluating Azure Multi-Factor Authentication (MFA).
+Answering security questions can be used as a form of Azure MFA identification.
+Select Yes if the statement is true. Otherwise, select No.
+Select only one answer.
+() Yes
+(X) No
+
+43. Your company plans to use Access Reviews.
+Access Reviews are used to provide users access to Azure Active Directory (Azure AD) enterprise applications.
+Select Yes if the statement is true. Otherwise, select No.
+Select only one answer.
+() Yes
+() No
+
+44. Your company plans to use Access Reviews.
+During an Access Review, users can decide whether they need access to a resource.
+Select Yes if the statement is true. Otherwise, select No.
+Select only one answer.
+() Yes
+() No
+
+45. Your company is evaluating role-based access control (RBAC) in Azure.
+From the Azure portal, you can assign roles by using Access control (IAM).
+Select Yes if the statement is true. Otherwise, select No.
+() Yes
+() No
+
+46. You have an Azure subscription named Subscription1 that contains a resource group named RG1. Subscription1 is linked to an Azure Active Directory (Azure AD) tenant that contains the following:
+- Group1: A Microsoft 365 group
+- App1: An enterprise application
+You create a virtual machine named VM1 in Subscription1.
+To what can you assign the Reader role for RG1?
+() App1 only
+() Group1 only
+() App1 and VM1 only
+() Group1 and App1 only
+() Group1, App1, and VM1
+
+47. Your company is evaluating role-based access control (RBAC) in Azure.
+A user who is assigned the Security Reader role can view the permissions on all resource groups.
+Select Yes if the statement is true. Otherwise, select No.
+() Yes
+() No
